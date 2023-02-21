@@ -105,6 +105,6 @@ Test code is written in meta programming, making the code readable and concise.
 
 Contact:
 
-Bug reports and suggestions please go to Minzhi (matt.0xcc@gmail.com).
+Bug reports and suggestions please go to Minzhi (quminzhi@gmail.com).
 
 This project is restricted to ![GNU General Public License 3.0 (GPL 3.0)](https://opensource.org/licenses/GPL-3.0).
